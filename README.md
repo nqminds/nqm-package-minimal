@@ -2,7 +2,9 @@
 
 Skeleton for a minimal universal JS package.
 
-This framework allows you to write code for use in both nodejs and browser environments.
+This framework allows you to write code for use in both nodejs and browser environments. It is also
+useful if you like writing ES6-style code but are tied to a nodejs version that doesn't fully
+support all the features.
 
 ## configure
 
