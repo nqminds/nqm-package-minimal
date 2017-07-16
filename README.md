@@ -39,8 +39,13 @@ npm install
 
 ## code
 
-Write your code, placing it in the `src` folder. While developing, you should run `npm run dev` in a background
-terminal - this will watch the `src` folder for changes and re-build the package automatically, while also checking
+Fire up a background terminal and run
+
+```
+npm run dev
+```
+
+Write your code, placing it in the `src` folder. While developing, `npm run dev` will watch the `src` folder for changes and re-build the package automatically, while also checking
 for `eslint` errors.
 
 ## test
